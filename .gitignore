@@ -1,0 +1,5 @@
+Makefile
+paddles
+moc_*
+ui_*
+*.o
